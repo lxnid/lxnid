@@ -3,7 +3,7 @@
 
 ## About me
 * **Interests:** Software Development & Web Development using industrial technologies
-* **Skills:** Python, C, Javascript/Typescript, React, Next JS, HTML & CSS, Tailwind CSS, Node JS
+* **Skills:** Python, C, Java, Javascript/Typescript, React, Next JS, HTML & CSS, Tailwind CSS, Node JS
 * **Currently Learning:** Native mobile application development(IOS)
 
 ## Let's connect
